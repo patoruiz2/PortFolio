@@ -263,7 +263,6 @@ h2{
 
 @media screen and (min-device-width:1030px) and (max-device-width:1236px){
     body{
-        background: red;
     }
 
     .grid{
@@ -280,7 +279,6 @@ h2{
 
 @media screen and (min-device-width:768px) and (max-device-width:1026px){
     body{
-        background: rgb(209, 124, 12);
         display: flex;
     }
 
@@ -382,7 +380,6 @@ h2{
 @media screen and (min-device-width:350px) and (max-device-width:400px){
    
     body{
-        background: red;
         display: flex;
     }
 
@@ -492,7 +489,7 @@ h2{
 @media screen and (min-device-width:400px) and (max-device-width:414px){
    
     body{
-        background: violet;
+
         display: flex;
     }
 
@@ -621,7 +618,7 @@ h2{
 
 @media screen and (min-device-width:282px) and (max-device-width:320px){
     body{
-        background: yellow;
+        
         display: flex;
     }
 
@@ -710,7 +707,7 @@ h2{
 
 @media screen and (max-device-width:280px){
     body{
-        background: rgb(0, 247, 255);
+        
         display: flex;
     }
 
